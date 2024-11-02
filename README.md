@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RohitRaj37
 - 👀 I’m interested in competitive programming .
-- 🌱 I’m currently learning C++ .
-- 💞️ I’m looking to collaborate on game development . 
+- 🌱 I’m currently learning C++ , Kotlin - jetpack Compose .
+- 💞️ I’m looking to collaborate on Android development . 
 - 📫 Reach me at 3737373737r@gmail.com .
 
 
