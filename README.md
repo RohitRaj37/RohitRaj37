@@ -9,25 +9,7 @@
 - 💡 Solving problems on Codeforces, CodeChef & CSES  
 - 🤝 Open to collaborating on **web development** and **open-source** projects  
 - 📫 Reach me at **3737373737r@gmail.com**
-
----
-
-### 🏆 Competitive Programming Profiles
-
-<p align="center">
-  <a href="https://codeforces.com/profile/rohit_raj_37">
-    <img src="https://raw.githubusercontent.com/PotatoCod3r/Codeforces-Readme-Card/main/card.svg?username=RohitRaj37" width="450">
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RohitRaj37&show_icons=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRaj37&layout=compact&theme=default" />
-</p>
+- Codeforces - https://codeforces.com/profile/rohit_raj_37
 
 ---
 
