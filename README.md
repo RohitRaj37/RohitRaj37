@@ -62,5 +62,5 @@ Currently trying to get better at:
 </p>
 
 <p align="center">
-  still learning, still building 🚀
+  still learning, still building 
 </p>
