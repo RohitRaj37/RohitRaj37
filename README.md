@@ -1,75 +1,66 @@
-<h1 align="center">Hi 👋, I'm Rohit Raj</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | DSA Enthusiast</h3>
+<h1 align="center">Hey , I'm Rohit</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit2612raj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RohitRaj37">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://codeforces.com/profile/rohit_raj_37">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
-  </a>
-  <a href="https://leetcode.com/u/rohit_raj_37/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Problem+Solver;Codeforces+Specialist;Aspiring+Software+Engineer;I+like+building+things+that+work" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit2612raj/">LinkedIn</a> •
+  <a href="https://github.com/RohitRaj37">GitHub</a> •
+  <a href="https://codeforces.com/profile/rohit_raj_37">Codeforces</a> •
+  <a href="https://leetcode.com/u/rohit_raj_37/">LeetCode</a>
 </p>
 
 ---
 
-## 🧠 About Me
-
-* 🎓 Pre-final year Computer Engineering student at **NIAMT (CGPA: 9.18)**
-* 🏆 **GATE 2026 (CS) Qualified**
-* 💻 **Codeforces Specialist (Max Rating: 1414)**
-* 🔥 Solved **500+ DSA problems**
-* ⚙️ Focused on **Backend Development and Problem Solving**
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,sql,mysql,git,github"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=100&section=header"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  What I'm into
+
+* Competitive programming (Codeforces Specialist)
+* Backend & systems thinking
+* Machine learning (applied side)
+* Writing clean and efficient code
+
+---
+
+##  A bit about me
+
+I enjoy breaking down complex problems and pushing until they make sense.
+Most of my time goes into **DSA, contests, and building small systems**.
+
+Currently trying to get better at:
+
+* Scalable backend design
+* Thinking in terms of systems, not just solutions
+
+---
+
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitRaj37&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRaj37&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitRaj37&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=RohitRaj37&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🔥 Activity Streak
+##  Things I'm proud of
+
+* GATE 2026 (CS)
+* Codeforces Specialist (1414)
+* Solved 500+ problems
+
+---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RohitRaj37&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer"/>
 </p>
 
----
-
-## 🏆 Achievements
-
-* 🎯 GATE 2026 (CS) Qualified
-* 💻 Codeforces Specialist (**1414**)
-* 📈 CodeChef Rating: **1516**
-* 🧩 Solved **500+ problems**
-
----
-
-## 📫 Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/rohit2612raj/
-* ⚡ Codeforces: https://codeforces.com/profile/rohit_raj_37
-* 🧩 LeetCode: https://leetcode.com/u/rohit_raj_37/
-
----
-
 <p align="center">
-  ⭐️ Focused on building strong problem-solving skills and scalable systems
+  still learning, still building 🚀
 </p>
