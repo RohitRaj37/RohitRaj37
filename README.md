@@ -1,7 +1,5 @@
-<!-- Banner (optional: replace with your own later) -->
-
 <h1 align="center">Hi 👋, I'm Rohit Raj</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | DSA Enthusiast | ML Systems Builder</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | DSA Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit2612raj/">
@@ -26,36 +24,15 @@
 * 🏆 **GATE 2026 (CS) Qualified**
 * 💻 **Codeforces Specialist (Max Rating: 1414)**
 * 🔥 Solved **500+ DSA problems**
-* ⚙️ Interested in **Backend Systems, Data Engineering, and ML Pipelines**
+* ⚙️ Focused on **Backend Development and Problem Solving**
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,sql,mysql,git,github"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=sklearn"/>
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 WiFi Usage Anomaly Detection System
-
-* Built ML pipeline on **10,000+ records**
-* Used **Isolation Forest & One-Class SVM**
-* Achieved **85% accuracy**
-* Reduced inefficiencies by **20%**
-
----
-
-### 🔹 ETL Data Pipeline
-
-* Designed modular **ETL system**
-* Optimized SQL queries for performance
-* Ensured **data consistency with schema design**
 
 ---
 
@@ -94,5 +71,5 @@
 ---
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/RohitRaj37">Rohit Raj</a>
+  ⭐️ Focused on building strong problem-solving skills and scalable systems
 </p>
